@@ -1,4 +1,5 @@
 <img src="./sorrows.jpg">
+
 # sorrow — an image splitter (for Roblox)
 
 A tiny, fast, and friendly desktop GUI that splits an image into two complementary PNGs using a variety of masks (noise, grids, stripes, rings, Voronoi, and more). Great for Roblox workflows where you want to layer/animate halves separately (e.g., UI reveals, wipe transitions, puzzle effects, “tear apart” visuals), but it’s also useful for general compositing anywhere.
